@@ -1,0 +1,12 @@
+.a-scene {
+    height: 100%;
+    width: 100%;
+  }
+  
+ #container {
+    height: 500px;
+    width: 100%;
+  }
+  #myImage{
+    width :"50px" ;height:"50px"; 
+  }

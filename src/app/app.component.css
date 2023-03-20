@@ -1,0 +1,42 @@
+/* Styles for mobile devices */
+@media only screen and (max-width: 767px) {
+    /* Adjust the layout and styling for small screens */
+    .header {
+      font-size: 1.5rem;
+      padding: 10px;
+    }
+  
+    .content {
+      font-size: 1.2rem;
+      padding: 5px;
+    }
+  }
+  
+  /* Styles for tablets */
+  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+    /* Adjust the layout and styling for medium-sized screens */
+    .header {
+      font-size: 2rem;
+      padding: 20px;
+    }
+  
+    .content {
+      font-size: 1.5rem;
+      padding: 10px;
+    }
+  }
+  
+  /* Styles for desktops and large screens */
+  @media only screen and (min-width: 1024px) {
+    /* Adjust the layout and styling for large screens */
+    .header {
+      font-size: 3rem;
+      padding: 30px;
+    }
+  
+    .content {
+      font-size: 2rem;
+      padding: 20px;
+    }
+  }
+  
